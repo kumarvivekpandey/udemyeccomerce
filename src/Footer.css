@@ -1,0 +1,30 @@
+.row {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Creates three columns with equal width */
+    background-color: #06c;
+    text-align: left;
+    padding-left: 4%;
+    color:#fff;
+    
+  }
+  .footer_logo{
+    width:200px;
+  }
+  
+  .column {
+    padding: 10px;
+    /* border: 1px solid black; */
+    /* Add any other styles you want for your columns */
+  }
+  /* * {
+    color: #fff;
+  } */
+  a {
+    text-decoration: none;
+    color: #fff;
+  }
+  .copyright_txt{
+    color: #000;
+  }
+ 
+  
